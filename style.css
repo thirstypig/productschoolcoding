@@ -1,0 +1,21 @@
+h1 {
+    color:black;
+}
+
+div ol {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+    width: 300px;
+}
+
+img {
+    width: 65px;
+    height: 65px;
+}
+
+p {
+    width: 300px;
+}
